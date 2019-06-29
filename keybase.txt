@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/oliverphil
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://oliverphil.com
+  * I am oliverphil (https://keybase.io/oliverphil) on keybase.
+  * I have a public key with fingerprint A7BD 62A0 50C6 2BD9 F264  CD90 6672 96D2 F6A2 1E99
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201f99fe845223ee0b879ca44560a03d7de141c54cdef05ecc5171549a2f88bd560a",
+      "fingerprint": "a7bd62a050c62bd9f264cd90667296d2f6a21e99",
+      "host": "keybase.io",
+      "key_id": "667296d2f6a21e99",
+      "kid": "0101ac45aa25098c352ccd20cb6b9b0ac039faa1cb6b7a38409da5d65b4659b7664a0a",
+      "uid": "71638bfb9f297ca9d59f6d3d783eaa19",
+      "username": "oliverphil"
+    },
+    "service": {
+      "hostname": "oliverphil.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1561773165,
+  "expire_in": 157680000,
+  "prev": "5e9be3e6e0303912ee86a12420825a2cf6ad1ea0e7a91d5f388f3e74a5d47779",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFtUm1QVFUYXkDX2KAcPxgGkeQSTSKu9/sDbMLAEEukiQEVlu1+nAsXcHfZvSwB
+ERNkg4MiDLijMyRoqdEg0BBTigtZFvbBR4BMCKOyhkRpA/yQhhA7l4lfdf6cOe95
+nud93mfean8fncFLtrsGH50LOe3147SgMwVcV4sRwSoVIlHFSA5YvkCuBByqOUeR
+kCgExXAUkzlOBixJ4TgBACqwDCfyJEnRKI8SEiMBjMREihQlIKMUEEUKYzCK5Hhc
+ZllB0mBIJCIrlkxgt9kViwpleUaQaJxHKVSkcUHiZJyGfA6laQbnaAmXaR7HAMdB
+YpbVoTGgOYF3AKNihTX4MC/b+x/8im8U40WS4nmcQjlWJChcFCUcFQVa4ASUF1GC
+k3ke094MT7Akykk8JdGUQNIUJzA0TfLLvvOX5RiMJlhBFqBRjhF5TqI4mZbg8CwB
+oIrWN98B7Bb+MIBoa67ihLNmKblISSQC605FBFq02iz/wRhF62HIt9mtqlW05sK/
+LFW1OaI0rlpo08AFQDD/K2MWFIsEs4QMyHcoVgsShUGkqCqaLkbRGMMQGE1FIuBt
+m2IHZkVDUAzNovBofYATSlKAMwmAADRACZgFhgPA0jyGkzjK4hSPizBSCQM8Chie
+wyRKJlhWJgBDwpRIhmG0kR0gz2KF4gQ0ymdCUYeSaeHVfDtASgxHvYlVOi+DbnNA
+6KqLbqEx6btto3NSb/XKAq721rZPZ/Bdu1IxXXz2SVpZXV97e+rZ+XPxHsQ3vDCB
+qv7SOLCeDH0BHwlvDlwK2loRoV93sw6Z2aR3h1f5xQx0Juavnh9KjYjI7L+QMxMe
+sdnU4Jv0aCjGa2HywUsWIAvvlO444VM53rBJP+eayA86lW3ZP7gQ0HzHb9fU0SOB
+U9U6nzLjR0OJLeyNmsiDs1d7i3ePfxJd77nb0xb5xnTWRMdiYMLeqheJm3erro91
+3l+/b8aZUHDaN7jL833d5KFUenL22hV9U3bZ1yXdule3tGfUZ+gr4irnp5NH1Dgv
+sH3Jx2/XnwFh36Q8/iksOMzt6vAfuZf2gfGMqUbKbWh9nBRa2Kbv+fZ87YV1N573
+38A9/dXLvV3Dlz5M1uNFlY3bW85Wxg8bP1WqLCH2/WUNAd5tyeXHJ0Ini7rWnuk+
+iNkfeo5VyAWLpsTp7uqBfZ+XJqWnRbw1pk6WUq23da+l/Bbk/vipa57ywWzDM7Hp
+za0J/ScfjN3yPBEC3zQljnqbSzL6xn/9wzP7+jjDxe/t6N/zw/nuA2pe8JW8W1PO
+rUc2puu8iw6tGTbU96WW+20JGc8W3226d3KjSzrQkk5v+2ynbeFyffTI+0v1Me/t
+cV1+7uGGlPjfj/38S6d7B9Hojq3V9bxSUyrdvhQXv7Pyr5BT0onoGtcMt7ttzeh9
+IUj9IocTS2LLMpy1i3Ohd5oC/74auljxDw==
+=B1LQ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/oliverphil
+
+==================================================================
+
